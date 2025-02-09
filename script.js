@@ -1,6 +1,6 @@
 // For multiple texts in intro
 const typed = new Typed('.multiple-text', {
-    strings: ['Software Developement', 'Data Science', 'Web Developement'],
+    strings: ['2024 MTech Graduate from IIIT ALLAHABAD', 'Software Developement Enthusiast', 'Web Developement Enthusiast'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
